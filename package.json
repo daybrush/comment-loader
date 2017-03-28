@@ -1,0 +1,20 @@
+
+{
+	"name": "comment-loader",
+	"version": "0.1.0",
+	"author": "Daybrush",
+	"description": "Remove comments for any purposes.",
+	"peerDependencies": {
+		"webpack": ">=2"
+	},
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "http://www.opensource.org/licenses/mit-license.php"
+		}
+	],
+	"repository": { 
+		"type": "git",
+		"url" : "https://github.com/daybrush/comment-loader.git"
+	}
+}

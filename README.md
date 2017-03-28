@@ -14,8 +14,9 @@ $ npm install git+https://github.com/daybrush/comment-loader.git
 ## Usage
 
 
-use comment /*@ .... */
-comment-loader remove comment /*@  ...  */ for ES6 test
+use comment **/*@ .... */**
+
+comment-loader remove comment **/*@  ...  */** for ES6 test
 
 
 
